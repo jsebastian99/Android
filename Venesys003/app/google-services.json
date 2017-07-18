@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "545862718758",
+    "firebase_url": "https://venesys-tecnology.firebaseio.com",
+    "project_id": "venesys-tecnology",
+    "storage_bucket": "venesys-tecnology.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545862718758:android:95fdbfa3f456fa85",
+        "android_client_info": {
+          "package_name": "com.example.sena.venesys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545862718758-9bccdjh1d6h95jbalem0c6ecf199ga0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sena.venesys",
+            "certificate_hash": "875c527498ed7dcb6df9a02637d8fdd1c6c70022"
+          }
+        },
+        {
+          "client_id": "545862718758-l6bfj6islu1ls7sjmv9h4vg7ckbsili9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZFpDbKBbdiyX0Z_baUy43KbKG7whCHkA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545862718758-l6bfj6islu1ls7sjmv9h4vg7ckbsili9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
